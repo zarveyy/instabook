@@ -73,3 +73,8 @@ Enfin, il faudra intégrer certaines règles de gestions, telles que l'appartena
   - Un commentaire ne peut être que fait que par un utilisateur qui appartient au même groupe que la photo
   - La photo n'est créée que si son propriétaire appartient bien au même groupe que la photo
   - Un utilisateur ne peut être ajouté à une photo que si il est dans le même groupe que la photo
+  
+   
+### Difficultés rencontrées
+Pas de difficultés particulières grace au premier TP qui était assez similaire.
+La seule difficulté à été la recherche sur la doc Laravel pour créer des relations que nous n'avions pas encore vues en classe .
